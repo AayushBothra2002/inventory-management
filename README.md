@@ -1,4 +1,4 @@
-#This project was completed in April 2022 and has been added to GitHub to showcase the functionality of the project.
+#This project was completed in April 2022 and has been uploaded to GitHub in September 2024 to showcase the work done during that period.
 
 # StockSmart - Inventory Management System
 StockSmart is a role-based inventory management system designed to simplify the management of products and stock turnover for different user roles. The project includes features like product management, role-based access, and dashboards for Admin, Special users, and regular Users.
